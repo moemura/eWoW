@@ -1,0 +1,11 @@
+﻿This is just a small project for Apoc to take on.
+
+I'll be implementing a 'script' engine for .NET.
+
+It's a pretty simple concept, that'll hopefully make stuff easy for us in the end.
+
+In short; I'm not creating any new languages, etc. I'm simply making any .NET language... scriptable!
+
+Please; do not edit this code UNLESS YOU KNOW WHAT YOU ARE DOING!
+
+There is a lot of compilation, and cross-AppDomain wrapping going on. If you fuck it up, it's your own damned fault.

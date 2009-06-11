@@ -1,0 +1,19 @@
+<Realms>
+	<Realm>
+		<Name>eWoW Test Server</Name>
+		<Address>0.0.0.0:8129</Address>
+		<!-- Types: Normal, PVP, RP, RPPVP -->
+		<Type>PVP</Type>
+		<!-- TimeZones: Development, USA, Oceanic -->
+		<TimeZone>USA</TimeZone>
+		<!-- Colors: Green = 0, Red = 1, Offline = 2 -->
+		<Color>0</Color>	
+		<!-- Population: 0 = Low, 1 = medium, 2 = high -->
+		<Population>1</Population>
+		<!-- If you want to use different world DBs per realm, change
+				this to reflect the DB you want to use. -->
+		<WorldDB>world</WorldDB>
+		<!-- Same as above, but for the logon DBs -->
+		<LogonDB>logon</LogonDB>
+	</Realm>
+</Realms>
