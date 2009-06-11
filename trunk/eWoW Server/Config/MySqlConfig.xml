@@ -1,0 +1,17 @@
+<MySqlConfig>
+	<LogonSettings>
+		<Host>localhost</Host>
+		<Port>3306</Port>
+		<Username>root</Username>
+		<Password>root</Password>
+		<Database>logon</Database>
+	</LogonSettings>
+	
+	<WorldSettings>
+		<Host>localhost</Host>
+		<Port>3306</Port>
+		<Username>root</Username>
+		<Password>root</Password>
+		<Database>world</Database>
+	</WorldSettings>
+</MySqlConfig>
