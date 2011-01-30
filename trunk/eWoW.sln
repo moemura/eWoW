@@ -1,6 +1,6 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 10.00
-# Visual Studio 2008
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eWoW", "eWoW\eWoW.csproj", "{8D98DAC4-417F-4D8C-B87C-E6747697FBE4}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eWoW.LogonServer", "eWoW.LogonServer\eWoW.LogonServer.csproj", "{453E8919-4FE8-4EA1-A737-1C477D915E37}"
